@@ -1,4 +1,4 @@
-# traingular-number
+# quadtraingular
 ch='A'
 for i in range (1,7):
     print()
